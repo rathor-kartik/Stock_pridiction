@@ -45,16 +45,4 @@ This project demonstrates how to use a Long Short-Term Memory (LSTM) neural netw
 
 The model effectively tracks trends in AAPL closing prices. While not perfect, the predictions closely follow the actual stock behavior.
 
-<p align="center">
-  <img src="docs/aapl_prediction_plot.png" alt="AAPL Prediction Plot" width="80%">
-</p>
 
----
-
-## 📁 File Structure
-
-```bash
-.
-├── aapl_lstm_predictor.py       # Main script
-├── README.md                    # Project documentation
-└── requirements.txt             # Python dependencies
